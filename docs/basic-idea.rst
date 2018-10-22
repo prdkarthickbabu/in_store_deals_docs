@@ -20,14 +20,16 @@ sample sites
 
 - `cupondunia - All cupons <http://www.coupondunia.in/>`_
 - `savemyrupee - All cupons <http://www.savemyrupee.com/>`_
+
+- `priceblogger => for mobiles <https://www.priceblogger.com>`_
+
   It has wish list, if you give an item, they will find lowest price for you
    
-
-
 online deals advantage
 **********************
   1. online retailers provide apis. so easy to get data.
   2. Online retailers pay referral bonus
+
 
 offline deals disadvantages
 ***************************
